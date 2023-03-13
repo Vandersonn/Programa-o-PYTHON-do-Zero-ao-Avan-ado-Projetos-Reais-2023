@@ -12,8 +12,7 @@
 class Funcionarios:
     pass
 
-#objeto
-user = Funcionarios()
+
 
 #parametros
 

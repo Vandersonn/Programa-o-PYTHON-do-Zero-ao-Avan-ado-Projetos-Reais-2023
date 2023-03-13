@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4726ab98-b5fd-4644-8ce6-05eafe3540e6" name="Changes" comment="2023/13/03" />
+    <list default="true" id="4726ab98-b5fd-4644-8ce6-05eafe3540e6" name="Changes" comment="2023/13/03">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7classes/aula3.py" beforeDir="false" afterPath="$PROJECT_DIR$/7classes/aula3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="61175afe-f3a0-4390-bbf6-6d9792cd9554" />
+        <option name="url" value="https://github.com/Vandersonn/Programa-o-PYTHON-do-Zero-ao-Avan-ado-Projetos-Reais-2023.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -229,7 +246,7 @@
       <workItem from="1678626632298" duration="6612000" />
       <workItem from="1678704551978" duration="2787000" />
       <workItem from="1678722943016" duration="43000" />
-      <workItem from="1678723000183" duration="405000" />
+      <workItem from="1678723000183" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="2023/13/03">
       <created>1678722975476</created>
@@ -252,7 +269,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678723068877</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2023/13/03">
+      <created>1678723455337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678723455337</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023/13/03">
+      <created>1678723516544</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678723516544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
