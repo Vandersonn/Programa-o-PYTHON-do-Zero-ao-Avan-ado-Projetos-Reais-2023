@@ -1,3 +1,4 @@
+from datetime import datetime
 # Python Objected Oriented Programing
 
 # Classes
@@ -10,9 +11,25 @@
     # Objects: Abacate, Banana....
 
 class Funcionarios:
-    pass
+    def __init__(self, nome, sobrenome, ano_nascimento):
+        self.nome = nome
+        self.sobrenome = sobrenome
+        self. ano_nascimento = ano_nascimento
+
+    def nome_completo(self):
+        return (self.nome + '' + self.sobrenome)
+
+    def idade_funcionario(self):
+        ano_atual =  datetime.now().year
+        self.ano_nascimento = int(ano_atual) - self.ano_nascimento
+        return self.ano_nascimento
 
 
+# objetos
+user1 = Funcionarios('Eleina', 'Cabrasta', 1979)
+user2 = Funcionarios('Carlos', 'Silva', 2001)
+user3 = Funcionarios('Amasias', 'Asker', 1999)
 
-#parametros
+# Print
+print(Funcionarios.idade_funcionario(user1))
 
